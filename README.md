@@ -3,7 +3,10 @@
 ## 2020.12.29~2021.06.22
 # 목록 
 ### [E-01] RockPaperScissor
+* [[E-01] RockPaperScissor](https://github.com/Acclesia/aiffel-project/blob/master/%5BE-01%5DRockPaperScissor.ipynb)
 ### [E-02] load_digits_load_wine_load_breast_cancer
+* [[E-02] 손글씨,와인, 유방암 데이터분석](https://github.com/Acclesia/aiffel-project/blob/master/%5BE2%5Dload_digits_load_wine_load_breast_cancer.ipynb)
+
 ### [E-03] Camera_Sticker
 ### [E-04] Naver_movie_revie
 ### [E-06] 작사가 인공지능 만들기
