@@ -61,7 +61,7 @@ AIFFEL은 모두의 연구소 소속의 교육기관으로 2020년 12월부터 6
 * [[P-01] sp tokenizer & 형태소 분석기 비교](https://github.com/Acclesia/aiffel-project/blob/master/LNP_P1_word_dictionary.ipynb)
 ### [P-02] LNP_NEW_Cartegory mulclassfication (21.04.23)
 * [[P-02] Machin learning model use](https://github.com/Acclesia/aiffel-project/blob/master/LNP_P2_News%20Cartegory_multiclassfication_EX.ipynb)
-### [P-02] LNP_NEW_Cartegory mulclassfication (21.04.23)
-
-### [P-04] LNP_NEW_Cartegory mulclassfication (21.05.04)
-* [[P-04] Machin learning model use](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P10_Transformer%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0_OSM.ipynb)
+### [P-04] LNP_SEQ2SEQ_TRANSLATION (21.04.23)
+* [[P-04] NLP SEQ2SEQ](https://github.com/Acclesia/aiffel-project/blob/master/LNP_P4_seq2seq%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20.ipynb)
+### [P-10] LNP_TRANSFORMER_TRANSLATION (21.05.04)
+* [[P-10] TRANSFORMER TRASLATION](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P10_Transformer%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0_OSM.ipynb)
