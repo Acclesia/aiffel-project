@@ -83,5 +83,5 @@ I learned deeper by carrying out personal projects about computer vision and nat
 * [[P-14] NLP_BERT pretrained model](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P16_%20BERT%20pretrained%20model%20제작.ipynb)
 ### [P-18] NLP_HuggingFace Custom project (21.05.13)
 * [[P-18] NLP_HuggingFace Custom project](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P18_HuggingFace%20Custom%20project.ipynb)
-### [P-20] NLP_GQA MODE (21.05.04)
-* [P-20] NLP_P20_GQA MODE](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P20_GQA%20MODEL.ipynb)
+### [P-20] NLP_GQA MODE (21.05.14)
+* [[P-20] NLP_P20_GQA MODE]](https://github.com/Acclesia/aiffel-project/blob/master/NLP_P20_GQA%20MODEL.ipynb)
